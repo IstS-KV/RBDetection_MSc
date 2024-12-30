@@ -4,14 +4,9 @@
 
 ## University: Ulm University (Ulm, Germany)
 
-# Institute: Biomedical Engineering Institute
-
-## Semester: SuSe 2024
+## Institute: Biomedical Engineering Institute
 
 ## Supervisor: Walter Karlen
-
----
----
 
 For more details, please get in touch with me at: kh.semkiv@gmail.com
 
