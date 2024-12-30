@@ -1,3 +1,23 @@
+## Author: Khrystyna Semkiv
+
+## Title: Fully Automated Rapid Eye Movement Sleep Behavioral Disorder Detection with Minimal Number of Channels for Real World Settings
+
+## University: Ulm University (Ulm, Germany)
+
+# Institute: Biomedical Engineering Institute
+
+## Semester: SuSe 2024
+
+## Supervisor: Walter Karlen
+
+---
+---
+
+For more details, please get in touch with me at: kh.semkiv@gmail.com
+
+---
+---
+
 **PreProcessing** folder contains the files with the code that extracts the data, preprocess data, and prepares them to train and evaluate the model.
 
 **Model** folder contains the files with the code used to design, compile, train, and test the model.  
